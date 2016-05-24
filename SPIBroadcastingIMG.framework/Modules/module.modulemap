@@ -1,0 +1,6 @@
+framework module SPIBroadcastingIMG {
+  umbrella header "SPIBroadcastingIMG.h"
+
+  export *
+  module * { export * }
+}
