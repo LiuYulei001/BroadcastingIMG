@@ -1,0 +1,1 @@
+../../../../SPIBroadcastingIMG/SPIBroadcastingIMG.framework/Headers/SPICycleScrollView.h

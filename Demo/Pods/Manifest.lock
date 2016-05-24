@@ -1,0 +1,10 @@
+PODS:
+  - SPIBroadcastingIMG (1.0.0)
+
+DEPENDENCIES:
+  - SPIBroadcastingIMG
+
+SPEC CHECKSUMS:
+  SPIBroadcastingIMG: fb36929bb6922bcb6a081df421f6e42dee54315b
+
+COCOAPODS: 0.39.0
