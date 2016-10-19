@@ -38,7 +38,7 @@ typedef enum {
 @property (nonatomic, strong) NSArray *titlesGroup;
 
 
-
+@property(nonatomic,assign)CGFloat toolBarHight;
 
 
 // >>>>>>>>>>>>>>>>>>>>>>>>>  滚动控制接口
